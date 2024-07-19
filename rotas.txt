@@ -1,0 +1,6 @@
+Rota 
+ Origem: Rio de Janeiro   Destino: Minas Gerais
+Rota 
+ Origem: Rio de Janeiro   Destino: Bahia
+Rota 
+ Origem: Minas Gerais   Destino: Minas Gerais
